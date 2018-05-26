@@ -1,7 +1,7 @@
 # Viz-Group-Project
 
 ## First Versions
-See the file GP_First_Version_Combined.ipynb for the first versions of our data product. Our 3 findings visualize interesting insights concerning the effect of key moments in the series on viewership & ratings, the moral ambiguity (or lack thereof) portrayed in the betrayals of the show's top heroes, villains, and houses, and the varying popularity of main characters.
+See the file **GP_First_Version_Combined.ipynb** for the first versions of our data product. Our 3 findings visualize interesting insights concerning the effect of key moments in the series on viewership & ratings, the moral ambiguity (or lack thereof) portrayed in the betrayals of the show's top heroes, villains, and houses, and the varying popularity of main characters.
 
 
 ## Exploratory Data Analysis
